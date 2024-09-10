@@ -1,0 +1,26 @@
+
+.container{
+  width: 800px;
+  margin: 0 auto;
+}
+.banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height:600px;
+  background-size: cover;
+}
+.banner-content p{
+  color: rgb(161, 161, 161);
+}
+.banner-header{
+  color: rgb(200, 199, 199);
+}
+.apply-now{
+  display: inline-block;
+  color: white;
+  background-color: #1EDD88;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
